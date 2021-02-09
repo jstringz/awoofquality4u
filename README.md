@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Basic Web Page</title>
+        <title>quality4u</title>
     </head>
     <body>
 Hello World!
